@@ -13,7 +13,7 @@ title                    : "Kevinrzy103874的博客"
 title_separator          : "-"
 name                     : &name "Kevinrzy103874"
 description              : &description "Kevin's academic portfolio"   # Update this with a general description of your site
-url                      : "https://kevin13590732645.github.io" # 你的 GitHub Pages 地址
+url                      : "https://kevinrzy103874.github.io/Blog-s/" # 你的 GitHub Pages 地址
 baseurl                  : "" # 用户站点留空即可
 repository               : "Kevin13590732645/Kevinrzy103874.github.io" # 你的仓库地址
 
